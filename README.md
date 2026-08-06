@@ -9,7 +9,7 @@ A TypeScript monorepo providing tools and utilities for interacting with Aave go
 
 ## Apps
 
-- **[docs](./apps/docs)** - Centralized documentation for BGD Labs projects
+- **[docs](./apps/docs)** 135 Centralized documentation for BGD Labs projects
 
 ## Getting Started
 
